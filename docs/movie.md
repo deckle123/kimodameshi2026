@@ -18,7 +18,7 @@
 > [!IMPORTANT]
 > 写真の備品を使いたいのでブロック担当リーダーに事前確認。
 >
-> <img src="./movie.jpg" width="400" />
+> <img src="./.imgs/movie.jpg" width="400" />
 
 ## 前提
 
