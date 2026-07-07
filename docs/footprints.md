@@ -1,6 +1,6 @@
 # ブラックライトで足跡が浮かび上がるギミック
 
-> Last Update: 2026-07-05
+> Last Update: 2026-07-07
 
 ## 前提構成
 
@@ -18,6 +18,9 @@
 
 - [ブラックライト](https://www.amazon.co.jp/dp/B0DN5KVFL9?ref=cm_sw_r_cso_li_apin_dp_E3566DF22YN1DB91HF7F&ref_=cm_sw_r_cso_li_apin_dp_E3566DF22YN1DB91HF7F&social_share=cm_sw_r_cso_li_apin_dp_E3566DF22YN1DB91HF7F&openExternalBrowser=1&th=1)
 - [塗料](https://www.amazon.co.jp/%E5%BB%BA%E6%9D%90%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%83%8D%E3%83%83%E3%83%88%E8%B2%A9%E5%A3%B2%E5%93%81-%E3%83%96%E3%83%AB%E3%83%BC-%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9F%E3%83%8E-50g-%E3%83%96%E3%83%AB%E3%83%BC/dp/B0064X326G/ref=sr_1_3?dib=eyJ2IjoiMSJ9.JqR8cGNhSHv_4hc73gkGiMaq7l1V-P_GMRgUcw_pSYhIQNIHdTHDNi9f4HP6dNCybA8-Lu_eihpGb3ygwjdqKpYA69UWrBIMX9N9TEpESIk.p-Yk8Fte41t2Im6sPRr4tb3XA1mCDFCqvy7UJjVfV0s&dib_tag=se&keywords=%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%AB%E3%83%9F%E3%83%8E+%E8%B5%A4&qid=1783228674&sr=8-3)
+
+> [!NOTE]
+> 注文済み。
 
 ## 目的
 
@@ -194,6 +197,10 @@ flowchart TD
 | 養生テープ                   | 300〜600円程度       |
 | 筆・スポンジ                 | 100〜500円程度       |
 | 合計                         | 約4,500〜8,500円程度 |
+
+> [!IMPORTANT]
+> 実際に購入するのはブラックライトとマジックミルののみになる想定。
+> 養生テープは肝試し全体で使うため、このチームでの購入は不要。
 
 ## 本番前テスト
 
