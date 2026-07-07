@@ -20,7 +20,7 @@
 > [!CAUTION]
 > あくまで配置計画のイメージであり、実際の配置は現場の状況に応じて変更する。
 
-![](./course_overview.png)
+![](./docs/.imgs/course_overview.png)
 
 ---
 
