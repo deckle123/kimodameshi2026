@@ -25,7 +25,7 @@
 > [!NOTE]
 > 全体像を把握するため、まず絵コンテを以下に示す。
 
-![](./formalin_storyboard01.png)
+![](./.imgs/formalin_storyboard01.png)
 
 ## 前提
 
