@@ -12,7 +12,7 @@
 
 去年の参考画像:
 
-<img src="./sample.jpg" alt="去年の参考画像" width="300">
+<img src="./.imgs/sample.jpg" alt="去年の参考画像" width="300">
 
 > [!CAUTION]
 > 今年は更に、ホルマリン漬け風の容器に並んで、机の上にオヤジ（薗田さん想定）がテーブルとテーブルの間から頭だけを出し、
@@ -25,7 +25,7 @@
 > [!NOTE]
 > 全体像を把握するため、まず絵コンテを以下に示す。
 
-![](./formalin_storyboard01.png)
+![](./.imgs/formalin_storyboard01.png)
 
 ## 前提
 

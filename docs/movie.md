@@ -18,7 +18,7 @@
 > [!IMPORTANT]
 > 写真の備品を使いたいのでブロック担当リーダーに事前確認。
 >
-> <img src="./movie.jpg" width="400" />
+> <img src="./.imgs/movie.jpg" width="400" />
 
 ## 前提
 
@@ -70,7 +70,7 @@ flowchart TD
     class J final;
 ```
 
-![](./shinigami_storyboard02.png)
+![](./.imgs/shinigami_storyboard02.png)
 
 ## 動画の長さ
 
@@ -79,7 +79,7 @@ flowchart TD
 
 ### 動画構成案（絵コンテ）
 
-![](./shinigami_storyboard01.png)
+![](./.imgs/shinigami_storyboard01.png)
 
 ### 重要ポイント
 
