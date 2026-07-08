@@ -19,6 +19,8 @@
 
 > [!CAUTION]
 > あくまで配置計画のイメージであり、実際の配置は現場の状況に応じて変更する。
+>
+> 配置計画は [#3](https://github.com/deckle123/kimodameshi2026/issues/3) で議論する。
 
 ![](./docs/.imgs/course_overview.png)
 
