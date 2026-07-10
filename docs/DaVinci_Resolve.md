@@ -1,6 +1,6 @@
 # DaVinci Resolveでの作成手順
 
-DaVince Resolve での作成手順を残しておく。
+DaVinci Resolve での作成手順を残しておく。
 
 > [!NOTE]
 > ここでは、DaVinci Resolve VERSION 21.0.2 BUILD 4 を使用している。
